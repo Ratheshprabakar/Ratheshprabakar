@@ -12,5 +12,5 @@ Here are some cool information about myself:
 - 🌱 I’m currently learning Automation using Python
 - 👯 I’m looking to collaborate on C, Real time problems, Data structures and algorithms
 - 💬 Ask me about C,Web Development, Python,Git
-- 📫 How to reach me: Rathesh Prabakar [Linkedin]
+- 📫 How to reach me: [Rathesh Prabakar](https://linkedin.com/in/Ratheshprabakar) [Linkedin]
 - 😄 Portfolio: www.ratheshprabakar.me
