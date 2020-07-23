@@ -33,7 +33,7 @@
 <a href="https://medium.com/@ratheshprabakar">
   <img align="left" alt="Rathesh Prabakar's Writings" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
-<a href="tel:918124807980">
+<a href="tel:+918124807980">
   <img align="left" alt="Rathesh Prabakar's Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
 </a>
 
@@ -46,7 +46,7 @@ Here are some cool information about myself:
 - 🌱 I’m currently learning Automation using Python
 - 👯 I’m looking to collaborate on C, Real time problems, Data structures and algorithms
 - 💬 Ask me about C,Web Development, Python,Git
-- 📫 How to reach me: [Rathesh Prabakar](https://linkedin.com/in/Ratheshprabakar) [Linkedin]
+- 📫 How to reach me: [Rathesh Prabakar](https://linkedin.com/in/Ratheshprabakar) (Linkedin)
 - 😄 Portfolio: www.ratheshprabakar.me
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 12 hours surfing new things in interenet everyday.
