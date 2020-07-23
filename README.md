@@ -51,6 +51,13 @@ Here are some cool information about myself:
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 12 hours surfing new things in interenet everyday.
 
+<!--<a href="https://github.com/Ratheshprabakar">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ratheshprabakar&theme=dark&hide_langs_below=1" />
+</a>-->
+<a href="https://github.com/Ratheshprabakar">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ratheshprabakar&show_icons=true&theme=dracula&line_height=15" alt="Rathesh Prabakar's github stats"/>
+</a>
+
 **Follow me :**
 
 [![Twitter: PrabakarRathesh](https://img.shields.io/twitter/follow/PrabakarRathesh?style=social)](https://twitter.com/PrabakarRathesh)
