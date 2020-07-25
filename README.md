@@ -33,7 +33,7 @@
 <a href="https://medium.com/@ratheshprabakar">
   <img align="left" alt="Rathesh Prabakar's Writings" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
-<a href="tel:+918124807980">
+<a href="https://wa.me/918124807980">
   <img align="left" alt="Rathesh Prabakar's Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
 </a>
 
