@@ -42,9 +42,9 @@
 
 Here are some cool information about myself:
 
-- 🔭 I’m currently doing the experiment on myself  
+- 🔭 I’m currently doing the experiment on Django  
 - 🌱 I’m currently learning Automation using Python
-- 👯 I’m looking to collaborate on C, Real time problems, Data structures and algorithms
+- 👯 I’m looking to collaborate on C, Real time problems, Data structures and algorithms, Full Stack Web Development (Bootstrap + Django)
 - 💬 Ask me about C,Web Development, Python,Git
 - 📫 How to reach me: [Rathesh Prabakar](https://linkedin.com/in/Ratheshprabakar) (Linkedin)
 - 😄 Portfolio: www.ratheshprabakar.me
