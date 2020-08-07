@@ -1,7 +1,7 @@
 ### Hi there, I am [Rathesh Prabakar](https://www.ratheshprabakar.me) 👋  [![HitCount](http://hits.dwyl.com/Ratheshprabakar/Ratheshprabakar.svg)](http://hits.dwyl.com/Ratheshprabakar/Ratheshprabakar)
 
 
-*Programmer | Web Developer | Freelancer*
+*An enthusiastic Programmer | Web Developer | Freelancer*
 <!--
 **Ratheshprabakar/Ratheshprabakar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
