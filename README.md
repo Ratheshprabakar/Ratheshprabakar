@@ -1,7 +1,7 @@
 ### Hi there, I am [Rathesh Prabakar](https://www.ratheshprabakar.me) 👋  [![HitCount](http://hits.dwyl.com/Ratheshprabakar/Ratheshprabakar.svg)](http://hits.dwyl.com/Ratheshprabakar/Ratheshprabakar)
 
 
-*An enthusiastic Programmer | Web Developer | Freelancer*
+*An enthusiastic Programmer | Web Developer | Freelancer | Microsoft Learn Student Ambassador*
 <!--
 **Ratheshprabakar/Ratheshprabakar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
@@ -45,7 +45,7 @@ Here are some cool information about myself:
 - 🔭 I’m currently doing the experiment on Django  
 - 🌱 I’m currently learning Automation using Python
 - 👯 I’m looking to collaborate on C, Real time problems, Data structures and algorithms, Full Stack Web Development (Bootstrap + Django)
-- 💬 Ask me about C,Web Development, Python,Git
+- 💬 Ask me about C,Web Development, Python, Git, Microsoft Technologies
 - 📫 How to reach me: [Rathesh Prabakar](https://linkedin.com/in/Ratheshprabakar) (Linkedin)
 - 😄 Portfolio: www.ratheshprabakar.me
 - 😄 Pronouns: He/His
