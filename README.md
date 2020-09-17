@@ -49,7 +49,7 @@ Here are some cool information about myself:
 - 📫 How to reach me: [Rathesh Prabakar](https://linkedin.com/in/Ratheshprabakar) (Linkedin)
 - 😄 Portfolio: www.ratheshprabakar.me
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I spend almost 10 hours surfing new things in internet everyday.
+- ⚡ Fun fact: I spend almost 10 hours surfing new things in internet everyday. I love to keep myself updated!!
 
 
 <br>
