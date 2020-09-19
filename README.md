@@ -66,6 +66,9 @@ Here are some cool information about myself:
 
 **Stats about Me :**
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <a href="https://github.com/Ratheshprabakar" target="_blank">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ratheshprabakar&show_icons=true&theme=dracula&line_height=15" alt="Rathesh Prabakar's github stats"/>
 </a>
