@@ -67,6 +67,9 @@ Here are some cool information about myself:
 **Stats about Me :**
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 <a href="https://github.com/Ratheshprabakar" target="_blank">
