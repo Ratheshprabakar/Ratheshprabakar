@@ -1,6 +1,7 @@
-### Hi there, I am [Rathesh Prabakar](https://www.ratheshprabakar.me) 👋  [![HitCount](http://hits.dwyl.com/Ratheshprabakar/Ratheshprabakar.svg)](http://hits.dwyl.com/Ratheshprabakar/Ratheshprabakar)
+### Hi there, I am [Rathesh Prabakar](https://www.ratheshprabakar.me) 👋  [![HitCount](http://hits.dwyl.com/Ratheshprabakar/Ratheshprabakar.svg)](http://hits.dwyl.com/Ratheshprabakar/Ratheshprabakar)    
 
-
+<img src="code.gif" width=350px;>
+ 
 
 *An enthusiastic Programmer | Web Developer | Freelancer | Microsoft Learn Student Ambassador*
 <!--
@@ -53,7 +54,8 @@ Here are some cool information about myself:
 - 📫 How to reach me: [Rathesh Prabakar](https://linkedin.com/in/Ratheshprabakar) (Linkedin)
 - 😄 Portfolio: www.ratheshprabakar.me
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I spend almost 10 hours surfing new things in internet everyday. I love to keep myself updated!!
+- ⚡ Fun fact: I spend almost 10 hours surfing new things in internet everyday. I love to keep myself updated!!  <img src="code1.gif" width=100px;>
+
 
 
 <br>
@@ -70,6 +72,7 @@ Here are some cool information about myself:
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ratheshprabakar&show_icons=true&theme=dracula&line_height=15" alt="Rathesh Prabakar's github stats"/>
 </a>
 
+<br>
 <br>
 
 **Follow me :**
