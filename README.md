@@ -1,10 +1,14 @@
 ### Hi there, I am [Rathesh Prabakar](https://www.ratheshprabakar.me) 👋  [![HitCount](http://hits.dwyl.com/Ratheshprabakar/Ratheshprabakar.svg)](http://hits.dwyl.com/Ratheshprabakar/Ratheshprabakar)
 
 
+
 *An enthusiastic Programmer | Web Developer | Freelancer | Microsoft Learn Student Ambassador*
 <!--
 **Ratheshprabakar/Ratheshprabakar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+
+
+
 
 **Social Media**
 
@@ -53,6 +57,14 @@ Here are some cool information about myself:
 
 
 <br>
+
+**Recent Articles :**
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ratheshprabakar/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ratheshprabakar/0" alt="Recent Article on medium"></img></a>  
+
+<br>
+
+**Stats about Me :**
 
 <a href="https://github.com/Ratheshprabakar" target="_blank">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ratheshprabakar&show_icons=true&theme=dracula&line_height=15" alt="Rathesh Prabakar's github stats"/>
