@@ -66,6 +66,30 @@ Here are some cool information about myself:
 
 <br>
 
+**Mini Projects :**
+
+<details>
+<summary>C</summary>
+<ul>
+<li><a href ="https://github.com/Ratheshprabakar/Food-Ordering-System" target="_blank">Food Ordering System</a></li>
+<li><a href ="https://github.com/Ratheshprabakar/Contact-Management-System" target="_blank">Contact Management System</a></li>
+<li><a href ="https://github.com/Ratheshprabakar/Ticket_booking-cancellation_system" target="_blank">Ticket Booking Cancellation System</a></li>
+<li><a href ="https://github.com/Ratheshprabakar/Bank-Gift-Card-System" target="_blank">Bank Gift Card System</a></li>
+<li><a href ="https://github.com/Ratheshprabakar/Flames-App" target="_blank">Flames Application</a></li>
+<li><a href ="https://github.com/Ratheshprabakar/Expression-Evaluator" target="_blank">Expression Evaluator</a></li>
+<li><a href ="https://github.com/Ratheshprabakar/ATM-Machine" target="_blank">ATM Machine</a></li>
+</ul>
+</details>
+
+<details>
+<summary>Python</summary>
+<ul>
+<li><a href ="https://github.com/Ratheshprabakar/War-Card-Game" target="_blank">War Card Game</a></li>
+<li><a href ="https://github.com/Ratheshprabakar/Smart-Message-Alert-System" target="_blank">Smart Message Alert System</a></li>
+</ul>
+</details>
+
+
 **Stats about Me :**
 
 <a href="https://github.com/Ratheshprabakar" target="_blank">
