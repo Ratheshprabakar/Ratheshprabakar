@@ -47,9 +47,9 @@
 
 Here are some cool information about myself:
 
-- 🔭 I’m currently doing the experiment on Django  
-- 🌱 I’m currently learning Microsoft Technologies
-- 👯 I’m looking to collaborate on C, Real time problems, Data structures and algorithms, Full Stack Web Development (Bootstrap + Django)
+- 🔭 I’m currently doing the experiment on Javascript  
+- 🌱 I’m currently learning React
+- 👯 I’m looking to collaborate on C, Real time problems, Data structures and algorithms, Front end web development (ReactJS)
 - 💬 Ask me about C,Web Development, Python, Git, Microsoft Technologies
 - 📫 How to reach me: [Rathesh Prabakar](https://linkedin.com/in/Ratheshprabakar) (Linkedin)
 - 😄 Portfolio: www.ratheshprabakar.me
