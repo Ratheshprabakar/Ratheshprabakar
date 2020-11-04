@@ -1,4 +1,4 @@
-### Hi there, I am <[Rathesh Prabakar]>(https://www.ratheshprabakar.me) 👋  [![HitCount](http://hits.dwyl.com/Ratheshprabakar/Ratheshprabakar.svg)](http://hits.dwyl.com/Ratheshprabakar/Ratheshprabakar)    
+### Hi there, I am [Rathesh Prabakar](https://www.ratheshprabakar.me) 👋  [![HitCount](http://hits.dwyl.com/Ratheshprabakar/Ratheshprabakar.svg)](http://hits.dwyl.com/Ratheshprabakar/Ratheshprabakar)    
 
 <img align="right" src="code.gif" width=350px;>
  
@@ -20,9 +20,9 @@
 <a href="https://github.com/Ratheshprabakar" target="_blank">
   <img align="left" alt="Rahesh Prabakar's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<!--<a href="">
-  <img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>-->
+<a href="">
+  <img align="left" alt="Rathesh Prabakar's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
 <a href="mailto:ratheshprabakar@gmail.com" target="_blank">
   <img align="left" alt="Rathesh Prabakar's Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
