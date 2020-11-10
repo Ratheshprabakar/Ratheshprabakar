@@ -20,7 +20,7 @@
 <a href="https://github.com/Ratheshprabakar" target="_blank">
   <img align="left" alt="Rahesh Prabakar's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="">
+<a href="https://t.me/googlerindia">
   <img align="left" alt="Rathesh Prabakar's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 <a href="mailto:ratheshprabakar@gmail.com" target="_blank">
