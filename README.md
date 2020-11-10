@@ -64,6 +64,8 @@ Here are some cool information about myself:
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ratheshprabakar/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ratheshprabakar/0" alt="Recent Article on medium"></img></a>  
 
+Want to read more -[Click Here](https://medium.com/@ratheshprabakar)
+
 <br>
 
 **Mini Projects :**
@@ -88,6 +90,7 @@ Here are some cool information about myself:
 <li><a href ="https://github.com/Ratheshprabakar/Smart-Message-Alert-System" target="_blank">Smart Message Alert System</a></li>
 </ul>
 </details>
+
 
 
 **Stats about Me :**
