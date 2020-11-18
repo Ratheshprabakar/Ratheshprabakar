@@ -50,7 +50,7 @@ Here are some cool information about myself:
 - 🔭 I’m currently doing the experiment on Javascript  
 - 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on C, Real time problems, Data structures and algorithms, Front end web development (ReactJS)
-- 💬 Ask me about C,Web Development, Python, Git, Microsoft Technologies
+- 💬 Ask me about C,Web Development, Python, Git
 - 📫 How to reach me: [Rathesh Prabakar](https://linkedin.com/in/Ratheshprabakar) (Linkedin)
 - 😄 Portfolio: www.ratheshprabakar.me
 - 😄 Pronouns: He/His
