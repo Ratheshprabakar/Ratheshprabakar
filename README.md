@@ -68,6 +68,10 @@ Want to read more -[Click Here](https://medium.com/@ratheshprabakar)
 
 <br>
 
+# 📩 Latest Tech Blog Posts.
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 **Mini Projects :**
 
 <details>
