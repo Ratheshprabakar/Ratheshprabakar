@@ -61,7 +61,8 @@ Here are some cool information about myself:
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ratheshprabakar/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ratheshprabakar/0" alt="Recent Article on medium"></img></a>  
 
-### 📩 Latest Tech Blog Posts
+**📩 Latest Tech Blog Posts**
+
 <!-- BLOG-POST-LIST:START -->
 - [Git - A beginner Guide](https://ratheshprabakar.hashnode.dev/git-a-beginner-guide)
 <!-- BLOG-POST-LIST:END -->
