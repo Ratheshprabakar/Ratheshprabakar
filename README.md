@@ -70,6 +70,7 @@ Want to read more -[Click Here](https://medium.com/@ratheshprabakar)
 
 ### 📩 Latest Tech Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Git - A beginner Guide](https://ratheshprabakar.hashnode.dev/git-a-beginner-guide)
 <!-- BLOG-POST-LIST:END -->
 
 **Mini Projects :**
