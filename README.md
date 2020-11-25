@@ -9,8 +9,6 @@
 -->
 
 
-
-
 **Social Media**
 
 
@@ -57,16 +55,11 @@ Here are some cool information about myself:
 - ⚡ Fun fact: I spend almost 8 hours surfing new things in internet everyday. I love to keep myself updated!!  <img src="code1.gif" width=100px;>
 
 
-
 <br>
 
-**Recent Articles :**
+**Recent Article on Medium :**
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ratheshprabakar/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ratheshprabakar/0" alt="Recent Article on medium"></img></a>  
-
-Want to read more -[Click Here](https://medium.com/@ratheshprabakar)
-
-<br>
 
 ### 📩 Latest Tech Blog Posts
 <!-- BLOG-POST-LIST:START -->
