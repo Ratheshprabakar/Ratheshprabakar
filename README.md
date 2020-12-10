@@ -64,6 +64,7 @@ Here are some cool information about myself:
 **📩 Latest Tech Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [Conditional Rendering in JSX](https://ratheshprabakar.hashnode.dev/conditional-rendering-in-jsx)
 - [Git - A beginner Guide](https://ratheshprabakar.hashnode.dev/git-a-beginner-guide)
 <!-- BLOG-POST-LIST:END -->
 
