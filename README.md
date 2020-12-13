@@ -64,6 +64,7 @@ Here are some cool information about myself:
 **📩 Latest Tech Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [Counter app in REACT without create-react-app](https://ratheshprabakar.hashnode.dev/counter-app-in-react-without-create-react-app)
 - [Conditional Rendering in JSX](https://ratheshprabakar.hashnode.dev/conditional-rendering-in-jsx)
 - [Git - A beginner Guide](https://ratheshprabakar.hashnode.dev/git-a-beginner-guide)
 <!-- BLOG-POST-LIST:END -->
