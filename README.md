@@ -1,4 +1,4 @@
-### Hi there, I am [Rathesh Prabakar](https://www.ratheshprabakar.me) 👋  [![HitCount](http://hits.dwyl.com/Ratheshprabakar/Ratheshprabakar.svg)](http://hits.dwyl.com/Ratheshprabakar/Ratheshprabakar)    
+### Hi there, I am [Rathesh Prabakar](https://www.ratheshprabakar.tech) 👋  [![HitCount](http://hits.dwyl.com/Ratheshprabakar/Ratheshprabakar.svg)](http://hits.dwyl.com/Ratheshprabakar/Ratheshprabakar)    
 
 <img align="right" src="code.gif" width=350px;>
  
@@ -50,7 +50,7 @@ Here are some cool information about myself:
 - 👯 I’m looking to collaborate on C, Real time problems, Data structures and algorithms, Front end web development (ReactJS)
 - 💬 Ask me about C,Web Development, Python, Git
 - 📫 How to reach me: [Rathesh Prabakar](https://linkedin.com/in/Ratheshprabakar) (Linkedin)
-- 😄 Portfolio: www.ratheshprabakar.me
+- 😄 Portfolio: www.ratheshprabakar.tech
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 8 hours surfing new things in internet everyday. I love to keep myself updated!!  <img src="code1.gif" width=100px;>
 
@@ -108,5 +108,5 @@ Here are some cool information about myself:
 [![Twitter: PrabakarRathesh](https://img.shields.io/twitter/follow/PrabakarRathesh?style=social)](https://twitter.com/PrabakarRathesh)
 [![Linkedin: Ratheshprabakar](https://img.shields.io/badge/-Ratheshprabakar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Ratheshprabakar/)](https://www.linkedin.com/in/Ratheshprabakar/)
 [![GitHub Ratheshprabakar](https://img.shields.io/github/followers/Ratheshprabakar?label=follow&style=social)](https://github.com/Ratheshprabakar)
-[![website](https://img.shields.io/badge/PortfolioWebsite-ratheshprabakar.me-2648ff?style=flat-square&logo=google-chrome)](https://ratheshprabakar.me/)
+[![website](https://img.shields.io/badge/PortfolioWebsite-ratheshprabakar.me-2648ff?style=flat-square&logo=google-chrome)](https://ratheshprabakar.tech/)
 
