@@ -36,9 +36,6 @@
 <a href="https://medium.com/@ratheshprabakar" target="_blank">
   <img align="left" alt="Rathesh Prabakar's Writings" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
-<a href="https://wa.me/918124807980" target="_blank">
-  <img align="left" alt="Rathesh Prabakar's Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
-</a>
 
 <br/>
 <br/>
