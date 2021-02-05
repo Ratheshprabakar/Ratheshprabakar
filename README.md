@@ -15,17 +15,11 @@
 <a href="https://linkedin.com/in/ratheshprabakar" target="_blank">
   <img align="left" alt="Rathesh Prabakar's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/Ratheshprabakar" target="_blank">
-  <img align="left" alt="Rahesh Prabakar's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
 <a href="https://t.me/googlerindia">
   <img align="left" alt="Rathesh Prabakar's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 <a href="mailto:ratheshprabakar@gmail.com" target="_blank">
   <img align="left" alt="Rathesh Prabakar's Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-<a href="https://www.instagram.com/ratheshprabakar/" target="_blank">
-  <img align="left" alt="Rathesh Prabakar's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://twitter.com/PrabakarRathesh" target="_blank">
   <img align="left" alt="Rathesh Prabakar's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -33,9 +27,7 @@
 <a href="https://www.youtube.com/channel/UCBiI02qZZ0uupivfAZ5QR5Q" target="_blank">
   <img align="left" alt="Rathesh Prabakar's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
-<a href="https://medium.com/@ratheshprabakar" target="_blank">
-  <img align="left" alt="Rathesh Prabakar's Writings" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
-</a>
+
 
 <br/>
 <br/>
