@@ -97,5 +97,5 @@ Here are some cool information about myself:
 [![Twitter: PrabakarRathesh](https://img.shields.io/twitter/follow/PrabakarRathesh?style=social)](https://twitter.com/PrabakarRathesh)
 [![Linkedin: Ratheshprabakar](https://img.shields.io/badge/-Ratheshprabakar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Ratheshprabakar/)](https://www.linkedin.com/in/Ratheshprabakar/)
 [![GitHub Ratheshprabakar](https://img.shields.io/github/followers/Ratheshprabakar?label=follow&style=social)](https://github.com/Ratheshprabakar)
-[![website](https://img.shields.io/badge/PortfolioWebsite-ratheshprabakar.me-2648ff?style=flat-square&logo=google-chrome)](https://ratheshprabakar.tech/)
+[![website](https://img.shields.io/badge/PortfolioWebsite-ratheshprabakar.tech-2648ff?style=flat-square&logo=google-chrome)](https://ratheshprabakar.tech/)
 
