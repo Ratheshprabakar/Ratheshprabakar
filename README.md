@@ -1,4 +1,4 @@
-### Hi there, I am [Rathesh Prabakar](https://www.ratheshprabakar.tech) 👋  [![HitCount](http://hits.dwyl.com/Ratheshprabakar/Ratheshprabakar.svg)](http://hits.dwyl.com/Ratheshprabakar/Ratheshprabakar)    
+### Hi there, I am [Rathesh Prabakar](https://www.ratheshprabakar.tech) 👋
 
 <img align="right" src="code.gif" width=350px;>
  
@@ -22,8 +22,9 @@
 
 Here are some cool information about myself:
 
-- 🔭 I’m currently doing the experiment on Javascript  
-- 🌱 I’m currently learning Python
+- 🔭 I’m currently doing the experiment on Java
+- 🌱 I’m currently learning Java
+- 🔭 I’m currently working on Software Developer at OneBill Software Private Limited, Bangalore
 - 👯 I’m looking to collaborate on C, Python, Real time problems, Algorithms, Web Development
 - 💬 Ask me about C,Web Development, Python, Git
 - 📫 How to reach me: [Rathesh Prabakar](https://linkedin.com/in/Ratheshprabakar) (Linkedin)
