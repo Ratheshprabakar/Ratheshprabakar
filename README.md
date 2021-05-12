@@ -42,6 +42,7 @@ Here are some cool information about myself:
 **📩 Latest Tech Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [Five Much-Needed Platforms for Students](https://ratheshprabakar.hashnode.dev/five-much-needed-platforms-for-students)
 - [Smart Attendance System using Face Recognition](https://ratheshprabakar.hashnode.dev/attendance-system-using-face-recognition)
 - [Counter app in REACT without create-react-app](https://ratheshprabakar.hashnode.dev/counter-app-in-react-without-create-react-app)
 - [Conditional Rendering in JSX](https://ratheshprabakar.hashnode.dev/conditional-rendering-in-jsx)
