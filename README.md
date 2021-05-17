@@ -77,11 +77,19 @@ Here are some cool information about myself:
 **Stats about Me :**
 
 <a href="https://github.com/Ratheshprabakar" target="_blank">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ratheshprabakar&show_icons=true&theme=dracula&line_height=15" alt="Rathesh Prabakar's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ratheshprabakar&&count_private=trueshow_icons=true&theme=dracula&line_height=15" alt="Rathesh Prabakar's github stats"/>
 </a>
 
 <br>
 <br>
+
+**Languages Known:**
+
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Ratheshprabakar">
+
+[![Rathesh Prabakar's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ratheshprabakar)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 **Follow me :**
 
