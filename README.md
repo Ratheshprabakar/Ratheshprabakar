@@ -83,12 +83,7 @@ Here are some cool information about myself:
 <br>
 <br>
 
-**Languages Known:**
-
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Ratheshprabakar">
-
-[![Rathesh Prabakar's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ratheshprabakar)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Rathesh Prabakar's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ratheshprabakar)](https://github.com/anuraghazra/github-readme-stats)
 
 
 **Follow me :**
