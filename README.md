@@ -49,7 +49,7 @@ Here are some cool information about myself:
 - [Git - A beginner Guide](https://ratheshprabakar.hashnode.dev/git-a-beginner-guide)
 <!-- BLOG-POST-LIST:END -->
 
-**Mini Projects :**
+**Projects :**
 
 <details>
 <summary>C</summary>
@@ -69,6 +69,7 @@ Here are some cool information about myself:
 <ul>
 <li><a href ="https://github.com/Ratheshprabakar/War-Card-Game" target="_blank">War Card Game</a></li>
 <li><a href ="https://github.com/Ratheshprabakar/Smart-Message-Alert-System" target="_blank">Smart Message Alert System</a></li>
+<li><a href ="https://github.com/Ratheshprabakar/Attendance-system" target="_blank">Attendance Management System using Face Recognition</a></li>
 </ul>
 </details>
 
