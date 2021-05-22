@@ -77,6 +77,8 @@ Here are some cool information about myself:
 
 **Stats about Me :**
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ratheshprabakar" alt="Ratheshprabakar" /></a> </p>
+
 <a href="https://github.com/Ratheshprabakar" target="_blank">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ratheshprabakar&&count_private=trueshow_icons=true&theme=dracula&line_height=15" alt="Rathesh Prabakar's github stats"/>
 </a>
