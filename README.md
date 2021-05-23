@@ -1,7 +1,7 @@
 ### Hi there, I am [Rathesh Prabakar](https://www.ratheshprabakar.tech) 👋
 
 
-<img align="right" src="code.gif" width=250px;>
+<img align="right" src="code.gif" width=200px;>
  
 
 *An enthusiastic Programmer | Web Developer | Microsoft Learn Student Ambassador | Writer*
