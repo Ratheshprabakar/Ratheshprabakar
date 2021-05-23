@@ -1,29 +1,26 @@
 ### Hi there, I am [Rathesh Prabakar](https://www.ratheshprabakar.tech) 👋
 
-<img align="right" src="code.gif" width=350px;>
+
+<img align="right" src="code.gif" width=250px;>
  
 
 *An enthusiastic Programmer | Web Developer | Microsoft Learn Student Ambassador | Writer*
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ratheshprabakar&theme=onedark&row=1)](https://github.com/Ratheshprabakar)
+
 <!--
-**Ratheshprabakar/Ratheshprabakar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
-
 **Connect me :**
-
-
 <a href="https://linkedin.com/in/ratheshprabakar" target="_blank">
   <img align="left" alt="Rathesh Prabakar's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
+-->
 
-
-<br/>
 <br/>
 
 Here are some cool information about myself:
 
 - 🔭 I’m currently doing the experiment on Java
-- 🌱 I’m currently learning Java
+- ⚙️ I use daily: `.java`
 - 🔭 I’m currently working on Software Developer at OneBill Software Private Limited, Bangalore
 - 👯 I’m looking to collaborate on C, Python, Real time problems, Algorithms, Web Development
 - 💬 Ask me about C,Web Development, Python, Git
@@ -35,7 +32,44 @@ Here are some cool information about myself:
 
 <br>
 
-**Recent Article on Medium :**
+**Tools, languages, and other things that I like to work with**
+
+<table>
+  <tr>
+        <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/C-svg.svg" width="48" height="48" alt="C" />
+      </a>
+      <br>C
+    </td>
+     <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/java-svg.svg" width="48" height="48" alt="Java" />
+      </a>
+      <br>Java
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
+      </a>
+      <br>Python
+    </td>
+   <td align="center"  width="96">
+      <a href="#macropower-tech">
+        <img src="./img/mysql-original.svg" width="48" height="48" alt="MySQL" />
+      </a>
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/git0svg.svg" width="48" height="48" alt="Git" />
+      </a>
+      <br>Git
+    </td>
+  </tr>
+</table>
+
+**Recent Article on Medium**
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ratheshprabakar/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ratheshprabakar/0" alt="Recent Article on medium"></img></a>  
 
@@ -49,7 +83,7 @@ Here are some cool information about myself:
 - [Git - A beginner Guide](https://ratheshprabakar.hashnode.dev/git-a-beginner-guide)
 <!-- BLOG-POST-LIST:END -->
 
-**Projects :**
+**Projects**
 
 <details>
 <summary>C</summary>
@@ -75,24 +109,23 @@ Here are some cool information about myself:
 
 
 
-**Stats about Me :**
+**Stats about Me**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ratheshprabakar" alt="Ratheshprabakar" /></a> </p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ratheshprabakar&theme=dark)](https://github.com/Ratheshprabakar) 
 
-<a href="https://github.com/Ratheshprabakar" target="_blank">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ratheshprabakar&&count_private=trueshow_icons=true&theme=dracula&line_height=15" alt="Rathesh Prabakar's github stats"/>
-</a>
+<!--<a href="https://github.com/Ratheshprabakar" target="_blank">
+ <img align="right" src="https://github-readme-stats.vercel.app/api?username=Ratheshprabakar&&count_private=trueshow_icons=true&theme=dracula&line_height=15" alt="Rathesh Prabakar's github stats"/>
+</a> -->
 
 <br>
-<br>
 
-[![Rathesh Prabakar's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ratheshprabakar)](https://github.com/anuraghazra/github-readme-stats)
-
-
-**Follow me :**
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 [![Twitter: PrabakarRathesh](https://img.shields.io/twitter/follow/PrabakarRathesh?style=social)](https://twitter.com/PrabakarRathesh)
 [![Linkedin: Ratheshprabakar](https://img.shields.io/badge/-Ratheshprabakar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Ratheshprabakar/)](https://www.linkedin.com/in/Ratheshprabakar/)
 [![GitHub Ratheshprabakar](https://img.shields.io/github/followers/Ratheshprabakar?label=follow&style=social)](https://github.com/Ratheshprabakar)
 [![website](https://img.shields.io/badge/PortfolioWebsite-ratheshprabakar.tech-2648ff?style=flat-square&logo=google-chrome)](https://ratheshprabakar.tech/)
+
+
+
 
