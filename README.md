@@ -1,12 +1,12 @@
 ### Hi there, I am [Rathesh Prabakar](https://www.ratheshprabakar.tech) 👋
 
 
-<img align="right" src="code.gif" width=190px; height=135px>
+<img align="right" src="code.gif" width=160px;>
  
 
 *An enthusiastic Programmer | Web Developer | Microsoft Learn Student Ambassador | Writer*
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ratheshprabakar&theme=onedark&row=1&&margin-w=2&&margin-h=2)](https://github.com/Ratheshprabakar)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ratheshprabakar&theme=onedark&row=1&margin-w=2&margin-h=2)](https://github.com/Ratheshprabakar)
 
 <!--
 **Connect me :**
