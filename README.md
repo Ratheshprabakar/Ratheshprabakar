@@ -106,6 +106,14 @@ Here are some cool information about myself:
 </ul>
 </details>
 
+<details>
+<summary>Java</summary>
+<ul>
+<li><a href ="https://github.com/Ratheshprabakar/Music-Player-Application/" target="_blank">Music Player Application</a></li>
+<li><a href ="https://github.com/Ratheshprabakar/Quiz-Application" target="_blank">Quiz Application</a></li>
+</ul>
+</details>
+
 
 
 **Stats about Me**
