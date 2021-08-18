@@ -18,8 +18,8 @@
 
 Here are some cool information about myself:
 
-- 🔭 I’m currently doing the experiment on Java
-- ⚙️ I use daily: `.java`
+- 🔭 I’m currently doing the experiment on React
+- ⚙️ I use daily: `.js`
 - 🔭 I’m currently working on Software Developer at OneBill Software Private Limited, Bangalore
 - 👯 I’m looking to collaborate on C, Python, Real time problems, Algorithms, Web Development
 - 💬 Ask me about C,Web Development, Python, Git
