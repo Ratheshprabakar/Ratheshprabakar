@@ -35,6 +35,12 @@ Here are some cool information about myself:
 
 <table>
   <tr>
+     <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/reactjs-icon.svg" width="48" height="48" alt="React" />
+      </a>
+      <br>React JS
+    </td>
         <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="./img/C-svg.svg" width="48" height="48" alt="C" />
