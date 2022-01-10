@@ -127,9 +127,7 @@ Here are some cool information about myself:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ratheshprabakar&theme=dark)](https://github.com/Ratheshprabakar) 
 
-<!--<a href="https://github.com/Ratheshprabakar" target="_blank">
- <img align="right" src="https://github-readme-stats.vercel.app/api?username=Ratheshprabakar&&count_private=trueshow_icons=true&theme=dracula&line_height=15" alt="Rathesh Prabakar's github stats"/>
-</a> -->
+<a href=""><img alt="Rathesh Prabakar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Ratheshprabakar&bg_color=1F222E&color=ffffff&line=f08c2d&point=444040&area=true&hide_border=true" /></a>
 
 <br>
 
