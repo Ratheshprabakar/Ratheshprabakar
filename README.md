@@ -1,8 +1,8 @@
 ### Hi there, I am [Rathesh Prabakar](https://www.ratheshprabakar.tech) 👋
 
 
-<img align="right" src="code.gif" width=160px;>
- 
+<!-- <img align="right" src="code.gif" width=280px;>
+  -->
 *An enthusiastic Programmer | Web Developer | Writer*
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Ratheshprabakar&theme=onedark&row=1&margin-w=2&margin-h=2)](https://github.com/Ratheshprabakar)
